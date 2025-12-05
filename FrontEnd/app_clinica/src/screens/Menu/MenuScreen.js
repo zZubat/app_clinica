@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     // Altura fixa ou um percentual menor, já que flex:1 foi removido
     height: 100, 
     resizeMode: 'contain',
-    alignSelf: 'auto', // Centraliza a imagem horizontalmente
+    alignSelf: 'left', // Centraliza a imagem horizontalmente
     marginBottom: 1, // Espaçamento entre o logo e o header
   },
   header: { fontSize: 12, textAlign: 'left', fontWeight:'bold' },
