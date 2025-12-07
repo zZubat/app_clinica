@@ -105,5 +105,6 @@ Um dos desafios técnicos foi a integração entre o objeto Date do JavaScript e
 ## 👨‍💻 Autores
 Desenvolvido como atividade da disciplina de Aplicações Mobile.
 
-* Vinicius Augusto Ramos Bastos
-* Pedro Henrique Lopes Martins
+* Leonardo Freire Miranda
+* Joao Putini
+* Patrick Henrique
